@@ -54,5 +54,5 @@ O:
 - Análisis del funnel de conversión con SQL.
 - Análisis de retención por cohortes con SQL.
 - Evaluación de impacto (experimentación A/B) con Python.
-- Construcción del dashboard y comunicación de insights.
+- Construcción del dashboard en Power BI y comunicación de insights.
   
