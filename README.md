@@ -28,7 +28,7 @@ El proyecto incluye 7 datasets:
 
 ## 📂 Contenido del repositorio
 
-- `S12 Proyecto_Rappiplus.ipynb`
+- `Proyecto_Rappiplus.ipynb`
 → Notebook principal con limpieza, EDA, distribuciones, outliers y conclusiones.
 
 ## ▶ Cómo abrir el notebook en Google Colab
@@ -43,7 +43,7 @@ O:
 
 ## 📘 Cómo reproducir el análisis
 
-1. Abre `S8_Student_Version_Project_NovaRetail.ipynb`
+1. Abre `Proyecto_Rappiplus.ipynb`
 2. Ejecuta las celdas en orden
 3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda)
 
