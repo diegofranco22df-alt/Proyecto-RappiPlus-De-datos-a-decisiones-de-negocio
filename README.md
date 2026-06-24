@@ -1,4 +1,4 @@
-# Proyecto_RappiPlus:_De_datos_a_decisiones_de_negocio
+# Proyecto_RappiPlus:_De_datos_a_decisiones_de_negocio 
 
 RappiPlus es un servicio de suscripción dentro del ecosistema de Rappi diseñado para aumentar la frecuencia de compra y el valor generado por usuario.
 
